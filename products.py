@@ -14,6 +14,16 @@ prods = list(
             'Açúcar Cristal 5kg',
             float(25),
             2
+        ],
+        [
+            'Café 1kg',
+            float(23.59),
+            3
+        ],
+        [
+            'Extrato de Tomate 2 Kg',
+            float(35),
+            4
         ]
     ]
 )
